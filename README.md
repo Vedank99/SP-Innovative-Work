@@ -7,7 +7,7 @@
   <li>Geometric Brownian Motion</li>
   <li>Monte Carlo Simulation on Real World Stock Prices</li>
   <li>Black Scholes Option Pricing Model</li>
-  <li>Binomial Pricing Model</li>
+  <li>Binomial Pricing Model on Real World Stock Prices</li>
 </ul>
 
 ### In case the files does not load please use the link [here](https://nbviewer.jupyter.org/github/Vedank99/SP-Innovative-Work/tree/main/) to view the files
