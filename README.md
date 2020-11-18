@@ -10,7 +10,7 @@
   <li>Binomial Pricing Model</li>
 </ul>
 
-### In case the file does not load please go to the URL [here](https://nbviewer.jupyter.org) and paste the link of the file which is not rendered
+### In case the files does not load please use the link [here](https://nbviewer.jupyter.org/github/Vedank99/SP-Innovative-Work/tree/main/) to view the files
 #### By
 <ul>
   <li>Vedank Goyal 2K18/MC/122</li>
